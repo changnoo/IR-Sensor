@@ -11,6 +11,14 @@ How to select the right distance sensors: https://www.seeedstudio.com/blog/2019/
 
 Candidates were found on this website: http://global.sharp/products/device/lineup/selection/opto/haca/diagram.html
 
+Example Github pages:
+ - https://github.com/amarlokman110/Analog-Infrared-Sensor-SHARP
+ - https://github.com/MikroElektronika/IR_Disatance_click
+ - https://github.com/meyskens/raspi-ir-distance
+ - https://github.com/jeroendoggen/Arduino-GP2Y0A21YK-library
+
+In the process of converting one of these libraries into a useable one for our application
+
 ## What are distance Sensors?
 As their name suggests, distance sensors are used for determining the distance of an object from another object or obstacle without any physical contact involved. A distance sensor commonly functions by outputting a signal and measuring the change in the returning signal.
 
